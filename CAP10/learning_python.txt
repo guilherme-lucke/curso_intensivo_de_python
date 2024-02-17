@@ -1,0 +1,7 @@
+Arquivos: Como abrir, ler e modificar arquivos em python.
+POO: Como modelar a realidade usando classes e objetos em python.
+Funcoes: Blocos de codigo nomeados, concebidos para realizar uma tarefa especifica.
+Entrada de dados: Como capturar dados de um usuario em python.
+Estrutura de dados: Como criar e trabalhar com listas e dicionarios em python.
+Lacos: Para percorrer as listas em python.
+If: Para criar estruturas condicionais em python.
